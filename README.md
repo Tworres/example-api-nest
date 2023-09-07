@@ -22,6 +22,6 @@ API construida em node com o objetivo de exemplificar alguns conceitos
 <ul>
     <li>Clone o repositório</li>
     <li>Execute: <code>$ npm i </code></li>
-    <li>Execute: <code>$ npm run start:dev<code></li>
+    <li>Execute: <code>$ npm run start:dev</code></li>
     <li>Execute uma requisição http do tipo POST para o localhost:3000, estrutura: <code> {"name": "exemplo", "type": 2 }</code></li>
 </ul>
